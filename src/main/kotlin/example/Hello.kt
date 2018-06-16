@@ -3,10 +3,10 @@ package example
 object Hello {
     @JvmStatic
     fun main(args: Array<String>) {
-        println(hello("Kotlin"))
+        val tagName = "form#my-id.name1.na-me2"
+        val parts = tagName.split("""\b(?=#|[.])""".toRegex())
+        println(parts)
     }
-
-    fun hello(name: String): String = "Hello, $name!"
 
 }
 

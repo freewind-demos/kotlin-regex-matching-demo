@@ -1,20 +1,9 @@
-Kotlin Hello World Demo
+Kotlin Regex Split Demo
 =======================
 
-Hello world from kotlin.
+Use Regex to split strings in Kotlin
 
 ```
 ./gradlew run
 ```
-
-You will see "Hello, Kotlin!" from console.
-
-Run tests:
-
-```
-./gradlew test
-```
-
-You will see test result from console.
-
 
