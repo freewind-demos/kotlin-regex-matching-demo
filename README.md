@@ -1,7 +1,5 @@
-Kotlin Regex Split Demo
-=======================
-
-Use Regex to split strings in Kotlin
+Kotlin Regex Matching Demo
+==========================
 
 ```
 ./gradlew run
